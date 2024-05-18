@@ -1,5 +1,6 @@
 # Basic System in Kotlin
-Showing Alvaro best practices
+Showing Alvaro best practices.  
+This is my code following [PicPay chalenge guidelines](/readme/chalenge-instructions.md).
 
 ### Project Structure Fundamentals
 
