@@ -25,3 +25,6 @@ To follow it and keep our domain secure from external behaviour:
 
 ### Firsts entities and services pre-designed
 ![first-entities](/readme/first-entities.png)
+
+# FUll Documentation
+[Here is](/readme/documentation-startup-guide.md) the full documentation, with more detailed desired behaviour.
