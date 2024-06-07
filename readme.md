@@ -13,8 +13,6 @@ To follow it and keep our domain secure from external behaviour:
 - Entities contains the entity data.
 - Entities DOES NOTHING.
 - Services modifies Entities.
-- Services can interact with domain services through dependency injection.
-- Services can interact with outsource services through dependency injection by interfaces.
 - Services HAVE NO data.
 #### About outsource
 - All business logic here should be tested. (like UNIQUE KEYS on DB)
